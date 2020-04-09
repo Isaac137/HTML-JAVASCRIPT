@@ -1,0 +1,29 @@
+.cabecalho {
+    background: darkblue;
+    text-align: center;
+    color: white;
+    padding: 5px;
+    border-radius: 50px;
+} .secao {
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px darkred;
+} .secao h1 {
+    text-transform: uppercase;
+    font-family: cursive;
+    font-size: 19px;
+    text-shadow: 2px 5px 20px darkcyan;
+} .secao #lbl {
+    font-size: 21px;  
+} .secao #txt {
+    font-size: 16px;
+} .secao #btn {
+    font-size: 16px;
+    box-shadow: 2px 2px 2px white;
+    padding: 3px;
+}
